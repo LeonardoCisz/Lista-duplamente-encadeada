@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
 
 	public static void main(String[] args) {
-		SLinkedList<String> list = new SLinkedList<String>();
+		DLinkedList<String> list = new DLinkedList<String>();
 		list.addLast("a");
 		list.addLast("b");
 		list.addLast("c");
