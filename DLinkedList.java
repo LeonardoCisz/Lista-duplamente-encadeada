@@ -6,7 +6,7 @@ public class DLinkedList<T> {
 	protected Node<T> tail;
 	protected long size;
 	
-	public SLinkedList(){
+	public DLinkedList(){
 		head = null;
 		tail = null;
 		size = 0;
